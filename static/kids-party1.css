@@ -1,0 +1,26 @@
+body {
+    /* box-sizing: border-box; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div {
+    box-sizing: border-box; 
+    background-image: url("imgs/kids-party1.jpg");
+    background-size: contain;
+    color: rgb(238, 119, 212); 
+    height: 800px;
+    width: 800px;
+    padding: 170px;
+}
+
+h3 {
+    font-size: 36px;;
+}
+
+p {
+    font-size: 22px;
+}
+
+input {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
